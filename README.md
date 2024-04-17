@@ -13,3 +13,6 @@
 Run ["**CNNM3GTesting-2.ipynb**"](./CNNM3GTesting-2.ipynb) to check reported results.
 
 [TO BE UPDATED]
+# Task Link
+https://sites.google.com/view/mediqa2024/mediqa-m3g
+
