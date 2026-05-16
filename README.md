@@ -1,7 +1,8 @@
 # MediFact at MEDIQA-M3G 2024: Medical Question Answering in Dermatology with Multimodal Learning [[1]](#1)
-
 <div>
-    <img src="https://readme-typing-svg.demolab.com/?pause=1&size=50&color=f75c7e&center=True&width=1200&height=120&vCenter=True&lines=MediFact-MediQA-M3G2024,;Click+the+⭐+Star+please .;Any+questions+can+be+asked+in+Issue." />
+    <img 
+        src="https://readme-typing-svg.demolab.com/?pause=1&size=50&color=f75c7e&center=true&width=1200&height=120&vCenter=true&lines=MediFact-MediQA-M3G2024;Click+the+⭐+Star+please.;Any+questions+can+be+asked+in+Issue."
+    />
 </div>
 
 ## VGG16 Fine-tunned Models
